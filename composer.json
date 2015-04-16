@@ -1,0 +1,16 @@
+{
+  "name": "filipgolonka/bower-config-mergetool",
+  "description": "Bower config mergetool",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Filip Golonka",
+      "email": "filip.golonka@schibsted.pl"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "STP\\Bower\\": "src"
+    }
+  }
+}
